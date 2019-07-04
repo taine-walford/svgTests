@@ -2,6 +2,8 @@ import React from 'react'
 import Jacket from './Jacket';
 import Shirt from './Shirt'
 import Tie from './Tie'
+import Pants from './Pants'
+import Shoes from'./Shoes'
 
 const App = () => {
   return <>
@@ -9,6 +11,8 @@ const App = () => {
     <div className='svgContainer'>
       <Shirt />
       <Tie />
+      <Shoes />
+      <Pants />
       <Jacket />
     </div>
   </>

@@ -3,8 +3,8 @@
 }
 
 svg {
-  width: 700px;
-  height: 700px;
+  width: 1000px;
+  height: 1000px;
   position: absolute;
   top: 0px;
   left: 0px;
@@ -15,10 +15,10 @@ svg {
 }
 
 .normal {
-  fill: #242323
+  fill: grey
 }
 
 .shaded {
 
-  fill: #141414
+  fill: black
 }
